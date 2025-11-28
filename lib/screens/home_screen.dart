@@ -50,7 +50,7 @@ class HomeScreen extends StatelessWidget {
             ),
 
             WhiteSpace.tenH(),
-            CommonButton(text: " Login page", color: AppColor.buttonColor),
+            CommonButton(text: " page", color: AppColor.buttonColor),
           ],
         ),
       ),
